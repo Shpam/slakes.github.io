@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Samuel Lakes",
+    "label": "Data Engineer",
+    "picture": "",
+    "email": "shpam@mykolab.com",
+    "phone": "(513) 519-8753",
+    "website": "http://shpam.net",
+    "summary": "Samuel is originally from Loveland, Ohio.  He has earned a degree in Computer Science from California Polytechnic State University.  Before starting as a Data Engineer at Intuit, he interned with them for two summers beforehand where he worked on similar problems compared to his full time work.  Before that, he was a full stack intern for two years at a startup called Digital Democracy located in San Luis Obispo.  While his work focuses mainly in data engineering and cloud computing, his non-work interests range widely, everything from art and anthropology to hiking.",
+    "location": {
+      "address": "San Francisco Bay Area"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "Samuel Lakes",
+        "url": "https://www.linkedin.com/in/samuel-lakes-97b099129/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "Master",
+      "keywords": [
+        "Project Management",
+        "Technical Writing",
+        "Presentations",
+        "Collaboration",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Big Data Technologies",
+      "level": "Master",
+      "keywords": [
+        "Spark",
+        "Hive/Hadoop",
+        "Kafka",
+        "AWS (RDS, EMR/EC2, Athena"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "keywords": [
+        "Numpy",
+        "Pandas",
+        "SciKit Learn",
+        "PyTorch",
+        "Jupyter"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Java",
+        "SQL",
+        "C",
+        "Bash",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Master",
+      "keywords": [
+        "Informatica",
+        "ETL",
+        "CI/CD",
+        "Drupal",
+        "Jenkins",
+        "Spring",
+        "Docker",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "work": [
+    {
+      "company": "Intuit",
+      "position": "Data Engineer",
+      "startDate": "2019-01-06",
+      "endDate": "2020-08-23",
+      "summary": "As a Data Engineer designed and implemented various data pipelines and python tools to enhance the capabilities of Intuit's data platform while working closely with non-technical teams to bring new insights to data reports.",
+      "highlights": [
+        "Designed, implemented, and tested an automated ETL data pipeline to transfer commissions data between a 3rd party and Intuit's business teams using Hive, Spark, and EMR.  Worked within the confines of constantly changing requirements for the on-time transformation of what had previously been an antiquated manual process misplacing funds into a well-oiled, mistake free data pipeline and warehousing system with CI/CD; creating new opportunities for revenue and accounting for lost funds.",
+        "Managed, developed, and implemented an auditing framework using AWS S3/EMR and Informatica to comply with CCPA standards to delete user data.  Provided confidence to stakeholders for compliance with state and international regulations. ",
+        "Designed and implemented a tool to automatically evolve database schemas using the Hadoop framework; reducing time to deploy table changes from over one hour to mere minutes without operator error or mistakes.",
+        "Collaborated with teams in Finance/HR/Sales to understand their needs and update tables/datamarts to reflect changing requirements, unlocking key insights for their projects and making new data accessible in a timely manner.",
+        "Managed and developed a data parity tool in AWS Athena in order to compare recently ingested tables against data sources, establishing a reporting tool surrounding any ingestion issues which reduced downstream data errors for teams of stakeholders."
+      ]
+    },
+    {
+      "company": "Intuit",
+      "position": "Software Engineering Intern",
+      "startDate": "2018-05-28",
+      "endDate": "2018-08-23",
+      "summary": "As a Software Engineering Intern assisted with the migration from an Oracle based data engineering platform to an AWS cloud platform.",
+      "highlights": [
+        "Designed and implemented a data parity tool to assist with the migration from Oracle databases to AWS in order to efficiently handle billions of records across many tables.  It is used as a fast tool that can ensure data quality and reliability during incidents."
+      ]
+    },
+    {
+      "company": "Intuit",
+      "position": "Software Engineering Intern",
+      "startDate": "2017-05-28",
+      "endDate": "2017-11-05",
+      "summary": "As a Software Engineering Intern implemented and tested various aspects of Intuit's real-time data pipelines.",
+      "highlights": [
+        "Developed a component of Intuit’s money movement system using the Spring framework transferring over $1 billion every month.",
+        "Implemented a piece of the team’s data pipeline using Apache Storm that enriched data in Intuit’s financial systems, creating new data for downstream stakeholders."
+      ]
+    },
+    {
+      "company": "Digital Democracy",
+      "position": "Software Engineering Intern",
+      "startDate": "2015-10-18",
+      "endDate": "2017-06-10",
+      "summary": "As a Software Engineering Intern worked on various aspects of the front-end and back-end of the Digital Democracy website.",
+      "highlights": [
+        "Architected, managed, and developed a Stripe payment system in Drupal which provides users with a way to upgrade storage space, creating a revenue stream for the startup.",
+        "Architected and managed the development of a semi-autonomous, BeautifulSoup/Selenium based testing system which reported errors with HTML elements of Digital Democracy's website to the QA team, reducing time to discover errors by several hours.",
+        "Developed a data pipeline to handle the cleaning and enrichment of legislative hearing data for the purpose of fact-checking."
+
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cal Poly Data Science Club",
+      "position": "Technical Director of Competitions",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Cal Poly's student connection to the growing field of data science through supplementary education, competition, and corporate outreach.",
+      "highlights": [
+        "Planned several internal Data Science competitions to teach machine learning techniques to newer club members.",
+        "Used knowledge of Pandas, Jupyter, and unsupervised learning techniques to help manage teams and give direction and advice in online competitions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Polytechnic State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-08-01",
+      "endDate": "2017-06-15",
+      "courses": [
+        "Computer Networks",
+        "Theory and Applications of Data Mining",
+        "Algorithms II",
+        "Natural Language Processing",
+        "Artificial Intelligence",
+        "Operating Systems",
+        "Programming Languages",
+        "Introduction to Data Science",
+        "Game Development",
+        "Algorithms",
+        "Software Engineering",
+        "Corporate Communication",
+        "Technical Writing"
+      ]
+    }
+  ]
+}
