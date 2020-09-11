@@ -5,8 +5,8 @@
     "picture": "",
     "email": "shpam@mykolab.com",
     "phone": "(513) 519-8753",
-    "website": "http://shpam.net",
-    "summary": "Samuel is originally from Loveland, Ohio.  He has earned a degree in Computer Science from California Polytechnic State University.  Before starting as a Data Engineer at Intuit, he interned with them for two summers beforehand where he worked on similar problems compared to his full time work.  Before that, he was a full stack intern for two years at a startup called Digital Democracy located in San Luis Obispo.  While his work focuses mainly in data engineering and cloud computing, his non-work interests range widely, everything from art and anthropology to hiking.",
+    "website": "https://shpam.github.io/slakes.github.io/",
+    "summary": "Samuel is originally from Loveland, Ohio.  He has earned a degree in Computer Science from California Polytechnic State University.  Before starting as a Data Engineer at Intuit, he interned with them for two summers beforehand where he worked on similar problems compared to his full time work.  Before that, he was a full stack intern for two years at a startup called Digital Democracy located in San Luis Obispo.  While his work focuses mainly in data engineering and cloud computing, his non-work interests range widely, everything from art and music to anthropology, comparative religion, and hiking.",
     "location": {
       "address": "San Francisco Bay Area"
     },
@@ -15,6 +15,11 @@
         "network": "linkedin",
         "username": "Samuel Lakes",
         "url": "https://www.linkedin.com/in/samuel-lakes-97b099129/"
+      },
+      {
+        "network": "github",
+        "username": "Shpam",
+        "url": "https://github.com/Shpam"
       }
     ]
   },
